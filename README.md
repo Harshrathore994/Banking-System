@@ -3,5 +3,5 @@ BHARAT Bank : A user-friendly banking website designed to streamline online tran
 
 🔹 Main Page: Our landing page welcomes you with a sleek design and intuitive navigation. Simply click "Get Started" to dive into your banking activities.<br>
 🔹 Transaction Page: Once you hit "Get Started," you'll be redirected to our transaction page. Here, you can:<br>
-<p>   Send Money: Effortlessly transfer funds to any member from a provided list.</p>
-<p>   Transaction History: Keep track of all your transactions with an easy-to-navigate history section.</p>
+Send Money: Effortlessly transfer funds to any member from a provided list.<br>
+Transaction History: Keep track of all your transactions with an easy-to-navigate history section.
